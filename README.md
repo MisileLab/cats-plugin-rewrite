@@ -1,4 +1,4 @@
-# Cats Blender Plugin (0.19.0)
+# Cats Blender Plugin Rewrite (0.20.0)
 
 A tool designed to shorten steps needed to import and optimize models into VRChat.
 Compatible models are: MMD, XNALara, Mixamo, Source Engine, Unreal Engine, DAZ/Poser, Blender Rigify, Sims 2, Motion Builder, 3DS Max and potentially more
@@ -9,9 +9,9 @@ All the hours long processes of fixing your models are compressed into a few fun
 So if you enjoy how this plugin saves you countless hours of work consider supporting us through Patreon.
 There are a lot of perks like having your name inside the plugin!
 
-[![](https://i.imgur.com/BFIald5.png)](https://www.patreon.com/catsblenderplugin)
+<!-- [![](https://i.imgur.com/BFIald5.png)](https://www.patreon.com/catsblenderplugin) -->
 
-#### Download here: [Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip)
+#### Download here: [Cats Blender Plugin rewrite](https://github.com/MisileLab/cats-plugin-rewrite/archive/master.zip)
 
 ## Features
  - Optimizing model with one click!
@@ -39,7 +39,7 @@ Join our Discord to report errors, suggestions and make comments!
  - If you have custom Python installed which Blender might use, you need to have Numpy installed
 
 ## Installation
- - Download the plugin: **[Cats Blender Plugin](https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip)**
+ - Download the plugin: **[Cats Blender Plugin](https://github.com/MisileLab/cats-blender-plugin/archive/master.zip)**
    - **Important: Do NOT extract the downloaded zip! You will need the zip file during installation!**
  - Install the addon in blender like so:
    - *This shows Blender 2.79. In Blender 2.80+ go to Edit > Preferences > Add-ons. Also you don't need to save the user settings there.*
@@ -59,15 +59,7 @@ Skip the step where he installs "mmd_tools" in the video below, it's not needed 
 
 [![VRChat - Importing an MMD to VRChat Megatutorial!](https://img.youtube.com/vi/7P0ljQ6hU0A/0.jpg)](https://www.youtube.com/watch?v=7P0ljQ6hU0A)
 
-## Code contributors:
- - Hotox
- - Shotariya
- - Neitri
- - Kiraver
- - Jordo
- - Ruubick
- - feilen
-
+[Code contributors](https://github.com/Misilelab/cats-plugin-rewrite/graphs/contributors)
 
 ## Model
 ![](https://i.imgur.com/dYYAfb4.png)
@@ -314,6 +306,9 @@ It checks for a new version automatically once every day.
 ---
 
 ## Changelog
+
+#### 0.20.0
+- **Update blender version**
 
 #### 0.19.0
 - **Fully compatible with Blender 2.93**
