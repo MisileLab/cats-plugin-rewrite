@@ -1,3 +1,6 @@
 [submodule "extern_tools/google_trans_new"]
 	path = extern_tools/google_trans_new
 	url = https://github.com/lushan88a/google_trans_new.git
+[submodule "extern_tools/mmd_tools_local"]
+	path = extern_tools/mmd_tools_local
+	url = https://github.com/UuuNyaa/blender_mmd_tools.git
