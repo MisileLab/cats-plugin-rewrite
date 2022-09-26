@@ -1,0 +1,3 @@
+[submodule "extern_tools/google_trans_new"]
+	path = extern_tools/google_trans_new
+	url = https://github.com/lushan88a/google_trans_new.git
